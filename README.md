@@ -1,9 +1,4 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Andrés, a  full-stack developer 👨‍💻  since 2013 🚀</div>  
   
 
@@ -86,7 +81,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31cv5q4lsclugqfhqvifjbovejde&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cv5q4lsclugqfhqvifjbovejde&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</div>
 
 <br/>  
 
